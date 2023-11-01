@@ -1,0 +1,2 @@
+﻿using MyFirstProject;
+BankSystem.CalculateBanknoteAtmToReturnConsole();
